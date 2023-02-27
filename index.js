@@ -3,4 +3,4 @@ import {sayGoodbye} from 'utils.js';
 
 sayGoodbye();
 sayHello();
-console.log("Hola les IPSI king !");
+console.log("hello les IPSI king !");
