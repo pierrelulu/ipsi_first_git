@@ -1,1 +1,4 @@
-console.log("utils");
+function sayHello()
+{
+	console.log("utils");
+}
