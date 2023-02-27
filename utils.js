@@ -1,4 +1,9 @@
-function sayHello()
+export function sayHello()
 {
-	console.log("utils");
+	console.log("hello");
+}
+
+export function sayGoodbye()
+{
+	console.log("Goodbye");
 }
