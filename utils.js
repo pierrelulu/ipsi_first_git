@@ -1,9 +1,9 @@
 export function sayHello()
 {
-	console.log("hello");
+	console.log("Hola");
 }
 
 export function sayGoodbye()
 {
-	console.log("Goodbye");
+	console.log("Adios");
 }
